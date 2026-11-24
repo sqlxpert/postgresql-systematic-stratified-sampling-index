@@ -1,6 +1,7 @@
-# Easy random sampling in PostgreSQL - Avoid a DevOps rat race
+# Easy random sampling in PostgreSQL
 
-Source code to accompany my November&nbsp;24,&nbsp;2026 article
+Source code to accompany my November&nbsp;24,&nbsp;2026 article,
+"A random sampling index in PostgreSQL - Avoid a DevOps rat race"
 (
 [LinkedIn](https://www.linkedin.com/pulse/PLACEHOLDER) |
 [blog](https://sqlxpert.github.io/2026/11/24/postgresql-random-sampling-index-avoid-devops-rat-race.html)
