@@ -15,4 +15,5 @@
 !LICENSE*.md
 !README.md
 !index.md
+!sql/
 !sql/*.sql
