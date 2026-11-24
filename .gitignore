@@ -1,0 +1,18 @@
+# Easy random sampling in PostgreSQL: systematic stratified sampling index
+# github.com/sqlxpert/postgresql-systematic-stratified-sampling-index
+# GPLv3, Copyright Paul Marcelin
+
+# Default: ignore
+
+*
+
+# Exception: include
+
+!.gitignore
+
+!.gitattributes
+
+!LICENSE*.md
+!README.md
+!index.md
+!sql/*.sql
