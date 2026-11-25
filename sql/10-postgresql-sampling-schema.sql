@@ -59,7 +59,7 @@ create domain goal_val   as numeric(5, 2)
   constraint goal_val_minimum            check (-100 <= value        )
   constraint goal_val_maximum            check (        value <= +100)
 ;
-comment on domain observ_val is 'the exact value that observed values approximate';
+comment on domain goal_val is 'the exact value that observed values approximate';
 
 
 
